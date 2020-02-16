@@ -1,0 +1,52 @@
+header {
+    color: #fff;
+    background: #e02b56;
+    height: 50px;
+}
+header .logo i { 
+    margin-top: 11.2px;
+    font-size: 26px;
+}
+header .logo span {
+    color: #fff;
+    letter-spacing: 0.6px;
+    word-spacing: 5px;
+    margin-top: 0px;
+    margin-left: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+footer {
+    border-top: 1px solid #e02b56;
+}
+footer p {
+    margin-top: 12px;
+}
+footer a {
+    color: #e02b56;
+}
+
+
+
+
+
+
+#EditorSec {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+#EditorSec textarea {
+    height: 200px;
+    resize: none;
+    border-radius: 0;
+}
+#Preview {
+    height: 230px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    border: 1px solid #eee;
+    margin-bottom: 22px;
+    padding: 10px;
+    background-color: #eee;
+}
